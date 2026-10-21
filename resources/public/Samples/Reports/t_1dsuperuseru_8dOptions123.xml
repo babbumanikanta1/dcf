@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reportOptions exportedWithPermissions="true">
+    <folder>/public/Samples/Reports</folder>
+    <name>t_1dsuperuseru_8dOptions123</name>
+    <version>0</version>
+    <label>Options123</label>
+    <creationDate>2026-09-10T11:51:16.787+05:30</creationDate>
+    <updateDate>2026-09-10T11:51:16.787+05:30</updateDate>
+    <permission>
+        <permissionMask>22</permissionMask>
+        <recipient recipientType="user">superuser</recipient>
+    </permission>
+    <report>
+        <uri>/public/Samples/Reports/9.CustomerDetailReport</uri>
+    </report>
+    <optionsName>9.CustomerDetailReport_Options123</optionsName>
+    <inputValue>
+        <key xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:java="http://java.sun.com" xsi:type="java:java.lang.String">customerId</key>
+        <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns:java="http://java.sun.com" xsi:type="java:java.lang.Integer">4727</value>
+        <valueType>single</valueType>
+    </inputValue>
+</reportOptions>
